@@ -1,5 +1,5 @@
 # AstraForge Linux  
-A custom Ubuntu‑Base 22.04 live distribution built by Berken.  
+A custom Ubuntu‑Base 22.04 live distribution built by me.  
 AstraForge focuses on speed, simplicity, and a clean installer experience powered by Calamares.
 
 ---
